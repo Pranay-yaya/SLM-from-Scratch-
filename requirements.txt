@@ -1,0 +1,9 @@
+# Python 3.9 or newer
+torch>=2.0
+numpy
+datasets
+tokenizers
+# optional: plots and the demo
+pandas
+matplotlib
+gradio

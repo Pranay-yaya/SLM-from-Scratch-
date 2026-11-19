@@ -1,0 +1,12 @@
+# large or regenerable files: do not commit
+*.pt
+*.bin
+*.zip
+data/
+data_*/
+# python and notebook clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+sample_data/
